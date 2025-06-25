@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Yesh-jain
-- 👀 I’m interested Java , Spring Boot , Docker.
-- 🌱 I’m currently learning MySQL and DEVELOPMENT and Ai.
-- 💞️ I’m looking to collaborate on java  and SpringBoot projects
-- 📫 How to reach me -- www.linkedin.com/in/yesh-jain-7314a11ba
+👋 Hi, I’m @Yesh-jain
+
+💞️ I’m looking to collaborate on java  and SpringBoot projects
+  
+📫 How to reach me -- www.linkedin.com/in/yesh-jain-7314a11ba
+
+🌱 I’m currently learning SpringBoot, Spring Data JPA, ReactJs, Spring MVC
+
+👨‍💻 All of my projects are available at https://aaaayush519.github.io/Portfolio/
+
+💬 Ask me about SpringBoot,ReactJs,Docker
+
+📫 How to reach me yesh6263@gmail.com
+
+📄 Resume https://drive.google.com/file/d/1iIGt8N2XGD6kjYW6dBtmzdn2jGtoWyQI/view?usp=drive_link
 
 
 <!---
