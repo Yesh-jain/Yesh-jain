@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning SpringBoot, Spring Data JPA, ReactJs, Spring MVC
 
-👨‍💻 All of my projects are available at https://aaaayush519.github.io/Portfolio/
+👨‍💻 All of my projects are available at https://github.com/yesh-jain/Yesh-Portfolio
 
 💬 Ask me about SpringBoot,ReactJs,Docker
 
